@@ -1,0 +1,88 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(mom-i-love-you-so-much.regular.ttf);
+  }
+
+body {
+    /* background-color: aqua; */
+}
+
+h1 {
+    color: red !important;
+}
+
+.main-h1 {
+    color: violet;
+}
+
+#first-p {
+    color: blueviolet;
+}
+
+.class1.class2.class3.class4.class5.class6.class7.class8.class9.class10.class11 {
+    color:brown; 
+}
+
+#main-h1 {
+    color:aquamarine;
+}
+
+span {
+    color: red;
+}
+
+div {
+    background-color:chocolate;
+}
+
+.red-div {
+    background-color: red;
+}
+
+.red-div:hover {
+    background-color: crimson;
+}
+
+h1 {
+    color: darkorange;
+}
+
+h3 {
+    letter-spacing: 10px;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: lighter;
+    font-family: myFirstFont;
+}
+
+h3:hover {
+    background-color: blue;
+}
+
+.test-p {
+    line-height: 50px;
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+a {
+    color:brown;
+}
+
+a:visited {
+    color: rgb(51, 255, 248);
+}
+
+a:hover {
+    color: rgb(0, 255, 115);
+}
+
+a:active {
+    color: aqua;
+}
